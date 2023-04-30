@@ -105,7 +105,7 @@ namespace Fundamentos.Vetores
             Console.WriteLine("Total: " + total);
         }
 
-        // Exercício
+        // Exercício 30/04
         // Solicitar nome, altura e peso de 3 pessoas
         // Calcular o imc de cada pessoa e apresentar
     }
